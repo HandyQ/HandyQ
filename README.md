@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![팽수](https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.naver.com%2FPostView.nhn%3FblogId%3Dastray0313%26logNo%3D221726132432&psig=AOvVaw2IUwlTjiUXIYjhPa3dUd39&ust=1612336570278000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMixwPbTyu4CFQAAAAAdAAAAABAU)
 
 
 **HandyQ/HandyQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,3 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HandyQ)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
